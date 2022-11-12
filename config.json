@@ -1,0 +1,95 @@
+{
+    "name": "Daniel Sérgio",
+    "job": "web developer",
+    "github": "dsergiodev",
+    "playlists": {
+        "games": [
+          {
+            "title": "GOD OF WAR - Clássico de PS2! | BRKsEDU",
+            "url": "https://youtu.be/KaIeyKIwDz8",
+            "thumb": "https://img.youtube.com/vi/KaIeyKIwDz8/hqdefault.jpg"
+          },
+          {
+            "title": "ASSASSIN'S CREED ORIGINS - O INÍCIO DE GAMEPLAY, em Português PT-BR!",
+            "url": "https://youtu.be/9PhI79WHxMw",
+            "thumb": "https://img.youtube.com/vi/9PhI79WHxMw/hqdefault.jpg"
+          },
+          {
+            "title": "RED DEAD REDEMPTION 2 - O Início de Gameplay, em Português PT-BR!",
+            "url": "https://youtu.be/BoohYJlRXa8",
+            "thumb": "https://img.youtube.com/vi/BoohYJlRXa8/hqdefault.jpg"
+          },
+          {
+            "title": "GTA V #1 - O INÍCIO ÉPICO!!! (GTA 5 em Português PT-BR)",
+            "url": "https://youtu.be/I6-Ar6J_5bg",
+            "thumb": "https://img.youtube.com/vi/I6-Ar6J_5bg/hqdefault.jpg"
+          }
+        ],
+        "front-end": [
+          {
+            "title": "A História do Front-End para Iniciantes em Programação | Série 'Começando aos 40'",
+            "url": "https://youtu.be/VKmPGmFY7H4",
+            "thumb": "https://img.youtube.com/vi/VKmPGmFY7H4/hqdefault.jpg"
+          },
+          {
+            "title": "2 passos fundamentais para você entender promises | JavaScript",
+            "url": "https://youtu.be/y6HSxH0FIWM",
+            "thumb": "https://img.youtube.com/vi/y6HSxH0FIWM/hqdefault.jpg"
+          },
+          {
+            "title": "Front In Sampa 2018 - Fernando Daciuk: Immutable JavaScript",
+            "url": "https://youtu.be/eKka6vj1uig",
+            "thumb": "https://img.youtube.com/vi/eKka6vj1uig/hqdefault.jpg"
+          },
+          {
+            "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+            "url": "https://youtu.be/yS7AcF-xRUg",
+            "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+          },
+          {
+            "title": "5 Erros Históricos do CSS",
+            "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+            "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+          },
+          {
+            "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+            "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+            "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+          }
+        ],
+        "back-end": [
+          {
+            "title": "Entendendo Back-End para Iniciantes em Programação (Parte 1) | Série 'Começando aos 40'",
+            "url": "https://youtu.be/Qjk-cSW-jk4",
+            "thumb": "https://img.youtube.com/vi/Qjk-cSW-jk4/hqdefault.jpg"
+          },
+          {
+            "title": "5 motivos para aprender Node.js",
+            "url": "https://youtu.be/_f82YKlwXGw",
+            "thumb": "https://img.youtube.com/vi/_f82YKlwXGw/hqdefault.jpg"
+          },
+          {
+            "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+            "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+          }
+        ]
+    },
+    "favorites-cards": [
+    {
+        "github": "Roger-Melo"
+    },
+    {
+        "github": "fdaciuk"
+    },
+    {
+        "github": "akitaonrails"
+    },
+    {
+        "github": "peas"
+    },
+    {
+        "github": "omariosouto"
+    }
+    ]
+}
